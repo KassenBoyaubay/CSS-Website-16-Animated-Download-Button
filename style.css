@@ -63,6 +63,7 @@ body {
   transition: width 750ms ease-in 200ms,
     left 500ms ease-out 450ms,
     font-size 950ms linear;
+  /*transition: all 1.2s ease-out 0.2s;*/
 }
 
 .button:hover span {
